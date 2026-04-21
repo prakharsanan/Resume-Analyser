@@ -1,0 +1,23 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "r", "swift", "kotlin", "go"
+  ],
+  "ml_ai": [
+    "machine learning", "deep learning", "neural networks", "natural language processing",
+    "nlp", "computer vision", "reinforcement learning", "tensorflow", "pytorch", "keras",
+    "scikit-learn", "xgboost", "random forest", "regression", "classification"
+  ],
+  "data": [
+    "sql", "mysql", "postgresql", "mongodb", "pandas", "numpy", "matplotlib",
+    "data analysis", "data visualization", "tableau", "power bi", "excel"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "git", "github", "ci/cd", "linux"
+  ],
+  "web": [
+    "react", "nodejs", "html", "css", "fastapi", "flask", "django", "rest api"
+  ],
+  "soft_skills": [
+    "communication", "leadership", "teamwork", "problem solving", "project management"
+  ]
+}
